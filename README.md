@@ -1,4 +1,4 @@
 # hello-world
 
-Hi! everyone
-Over!
+This is my first time to use Github
+Just for practice
